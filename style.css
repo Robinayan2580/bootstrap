@@ -1,0 +1,49 @@
+body{
+    
+}
+#main{
+    height: 500px;
+}
+
+.mini_menu ul{
+    list-style: none;
+    
+}
+.mini_menu ul li{
+    display: inline-block;
+    margin-left: 50px;
+}
+.mini_menu ul li a{
+   text-decoration: none;
+   
+   
+} 
+
+.col i {
+    background: chartreuse;
+    padding:10px 10px;
+    color:cornsilk;
+    border-radius: 5px;
+
+
+}
+.col i  a {
+    text-decoration: none;
+    color: cornsilk;
+
+}
+
+.card img{
+    background: darkgray;
+    border-radius: 50px 50px ;
+}
+
+
+.sm-text p{
+    text-align: left;
+    width: 80%;
+}
+
+.footer_area h6{
+   text-align: center;
+}
